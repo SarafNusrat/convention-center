@@ -39,12 +39,23 @@ span{
     .slide-caption{
         font-size: 15px;
       }
+      .wedding-basic-card{
+          margin-bottom: 30px;
+      }
+    
 }
 
 .highlighted-card{
     font-size: 12px;
     font-weight: lighter;
-    height: 90px;
-    transform: scale(1.25,1.25);
+    margin-top: -15px;
+}
+
+.package-margin{
+    padding-top: 50px;
+}
+
+.package-title-padding{
+    padding-bottom: 50px;
 }
 
