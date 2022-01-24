@@ -17,6 +17,14 @@ body{
     padding-top: 40px;
 }
 
+.toast-size{
+    font-size: 15px;
+}
+
+.header-padding{
+    padding: 10px;
+}
+
 .faq-ans{
     color: gray;
     font-weight: lighter;
