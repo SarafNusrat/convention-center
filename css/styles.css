@@ -12,3 +12,26 @@ body{
 .stellato-button-style{
     color: #3F87F5;
 }
+
+.stellato-section-margin{
+    padding-top: 40px;
+}
+
+.faq-ans{
+    color: gray;
+    font-weight: lighter;
+    font-size: smaller;
+}
+
+.stellato-border{
+    color: skyblue;
+}
+
+span{
+    font-size: xx-small;
+}
+
+.footer-bg{
+    background-color: black;
+}
+
