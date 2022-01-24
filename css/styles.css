@@ -10,7 +10,7 @@ body{
 }
 
 .stellato-button-style{
-    color: #3F87F5;
+    color: #8db7f5;
 }
 
 .stellato-section-margin{
@@ -33,5 +33,18 @@ span{
 
 .footer-bg{
     background-color: black;
+}
+
+@media (max-width: 700px){
+    .slide-caption{
+        font-size: 15px;
+      }
+}
+
+.highlighted-card{
+    font-size: 12px;
+    font-weight: lighter;
+    height: 90px;
+    transform: scale(1.25,1.25);
 }
 
